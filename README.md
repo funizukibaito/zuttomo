@@ -15,7 +15,7 @@ Copyright (c) 2026 文月バイト
 この際、紹介動画・記事に広告が含まれていても構いません
 (YouTubeの広告収益化なども問題ありません)
 ただし、紹介する際は必ず本リポジトリへのリンクを明記してください:
-https://github.com/toimoshi/zzuttomo
+https://github.com/funizukibaito/zuttomo/tree/main
 
 
 
